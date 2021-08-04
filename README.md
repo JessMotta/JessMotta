@@ -1,6 +1,8 @@
 ### Hello, I'm Jéssica Motta 🇧🇷, but you can call me Jess 
 
-
+<div>
+<img align="right" alt="Jess-hi" src="https://cdn.discordapp.com/attachments/872177629611057214/872178842909950022/avatar_gif_150.gif">
+</div>
 
 - 🔭 I’m currently working with UX Design and Android Development!
 - 🌱 I’m currently learning Java
@@ -10,6 +12,9 @@
 <!--- 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
  💬 Ask me about ... -->
+ 
+ 
+ 
  
 <div>
   <a href="https://github.com/JessMotta">
@@ -21,7 +26,7 @@
   <img align="center" alt="Jess-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Jess-Android" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-plain.svg">
   <img align="center" alt="Jess-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="right" alt="Jess-hi" src="https://cdn.discordapp.com/attachments/872177629611057214/872178842909950022/avatar_gif_150.gif">
+  
     
  
   ##
