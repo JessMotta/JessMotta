@@ -4,7 +4,7 @@
 <img align="right" alt="Jess-hi" src="https://cdn.discordapp.com/attachments/872177629611057214/872178842909950022/avatar_gif_150.gif">
 </div>
 
-- 🔭 I’m currently working with UX Design and Web Development!
+- 🔭 I’m currently working  with Web Development!
 - 🌱 I’m currently learning Javascript
 - 😄 Pronouns: she/hers
 - ⚡ Fun fact: I have 4 🐱🐱🐱🐱
