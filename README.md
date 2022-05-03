@@ -5,7 +5,7 @@
 </div>
 
 - 🔭 I’m currently working  with Web Development!
-- 🌱 I’m currently learning Javascript
+- 🌱 I’m currently learning TypeScript and React JS
 - 😄 Pronouns: she/hers
 - ⚡ Fun fact: I have 4 🐱🐱🐱🐱
 
