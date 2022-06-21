@@ -7,7 +7,7 @@
 - 🔭 I’m currently working  with Web Development!
 - 🌱 I’m currently learning TypeScript, React and Tailwind CSS
 - 😄 Pronouns: she/hers
-- ⚡ Fun fact: I have 4 🐱🐱🐱🐱
+- ⚡ Fun fact: I have 4 🐱🐱🐱🐱 from different cities and I'm a ballerina
 
 <!--- 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
