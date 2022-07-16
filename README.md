@@ -5,7 +5,7 @@
 </div>
 
 - 🔭 I’m currently working  with Web Development!
-- 🌱 I’m currently learning TypeScript, React and Tailwind CSS
+- 🌱 I’m currently learning Dart and Flutter
 - 😄 Pronouns: she/hers
 - ⚡ Fun fact: I have 4 🐱🐱🐱🐱 from different cities and I'm a ballerina
 
